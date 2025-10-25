@@ -11,13 +11,17 @@ using a **Custom Convolutional Neural Network (CNN)** built with TensorFlow/Kera
 ---
 
 ## 📂 Dataset
-The dataset used is the **Brain Tumor MRI Dataset** (uploaded in folder)
 
+The dataset used is the **Brain Tumor MRI Dataset** (uploaded in folder).  
 It contains MRI scans divided into four classes:
+
 - `glioma_tumor/`
 - `meningioma_tumor/`
 - `pituitary_tumor/`
 - `no_tumor/`
+
+You can **download the dataset** from [this Google Drive link](https://drive.google.com/drive/folders/1NlEkHOOvoBK5eAHU84cLwpcVMHU27MfX?usp=sharing).
+
 
 ---
 
