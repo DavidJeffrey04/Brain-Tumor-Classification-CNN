@@ -20,7 +20,7 @@ It contains MRI scans divided into four classes:
 - `pituitary_tumor/`
 - `no_tumor/`
 
-You can **download the dataset** from [this Google Drive link](https://drive.google.com/drive/folders/1NlEkHOOvoBK5eAHU84cLwpcVMHU27MfX?usp=sharing).
+You can **download the dataset** from this [Google Drive link](https://drive.google.com/drive/folders/1NlEkHOOvoBK5eAHU84cLwpcVMHU27MfX?usp=sharing).
 
 
 ---
