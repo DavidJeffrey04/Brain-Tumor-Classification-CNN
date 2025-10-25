@@ -22,7 +22,6 @@ It contains MRI scans divided into four classes:
 
 You can **download the dataset** from this [Google Drive link](https://drive.google.com/drive/folders/1NlEkHOOvoBK5eAHU84cLwpcVMHU27MfX?usp=sharing).
 
-
 ---
 
 ## 🏗️ Model Architecture
@@ -31,8 +30,8 @@ The CNN architecture consists of:
 - Dropout for regularization
 - Dense layers for classification
 
-You can **download the custom pre-trained model** from [this Google Drive link](https://drive.google.com/drive/folders/1P5XwhAeyp5D9znGk0GJ0jZuGSqfTnN6C?usp=sharing).
----
+You can **download the custom pre-trained model** from this [Google Drive link](https://drive.google.com/drive/folders/1P5XwhAeyp5D9znGk0GJ0jZuGSqfTnN6C?usp=sharing).
+
 
 ## 📊 Results
 
