@@ -27,5 +27,12 @@ The CNN architecture consists of:
 - Dropout for regularization
 - Dense layers for classification
 
+---
 
+## 📊 Results
 
+### 🧩 Confusion Matrix
+<img src="Results/confusion_matrix.png" alt="Confusion Matrix" width="400"/>
+
+### 📈 Classification Report
+<img src="Results/classification_report.png" alt="Classification Report" width="400"/>
