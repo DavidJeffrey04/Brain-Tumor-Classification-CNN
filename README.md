@@ -32,7 +32,7 @@ The CNN architecture consists of:
 ## 📊 Results
 
 ### 🧩 Confusion Matrix
-<img src="Results/ConfusionMatrix.png" alt="Confusion Matrix" width="400"/>
+<img src="Results/Confusion Matrix.png" alt="Confusion Matrix" width="600"/>
 
 ### 📈 Classification Report
-<img src="Results/Classification Report.png" alt="Classification Report" width="400"/>
+<img src="Results/Classification Report.png" alt="Classification Report" width="600"/>
