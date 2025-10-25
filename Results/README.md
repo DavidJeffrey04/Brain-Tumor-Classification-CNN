@@ -1,1 +1,1 @@
-Results folder for storing confusion matrices and plots.
+Results folder for storing confusion matrices and classification report.
